@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mahesh Nanavare.
-- 👀 I’m interested in data analytics.
-- 🌱 I’m currently learning SQL, R, Python, Tableau.
-- 💞️ I’m looking to collaborate on beginner level data anlysis projects.
+- 👀 I’m interested in data analytics and machine learning.
+- 🌱 I’m currently learning SQL, R, Python, Tableau and AI-ML.
+- 💞️ I’m looking to collaborate on beginner level data anlysis projects and beginner level AI-ML projects.
 - 📫 How to reach me maheshnanavare2212@gmail.com
 
 <!---
